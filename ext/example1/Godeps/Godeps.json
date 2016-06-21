@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/dan9186/gowink/ext/example1",
+	"GoVersion": "go1.6.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/dan9186/gowink",
+			"Rev": "d98ae33d652ab59843ebd673bc3e9f41525c45f3"
+		},
+		{
+			"ImportPath": "github.com/gomicro/ledger",
+			"Rev": "3c3f0f346a47126c41d56d0f49265762dd042862"
+		},
+		{
+			"ImportPath": "github.com/kelseyhightower/envconfig",
+			"Comment": "v1.0.0-26-g12c18e8",
+			"Rev": "12c18e8343f6eb5fc3a9d5c8dc353e42e6bb40b9"
+		}
+	]
+}

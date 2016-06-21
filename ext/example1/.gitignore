@@ -1,0 +1,10 @@
+# Go Binaries
+winktest
+winktest-*
+main
+
+# Vim
+.swp
+
+# Running
+run.sh
